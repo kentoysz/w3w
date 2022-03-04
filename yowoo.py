@@ -26,7 +26,7 @@ WOKER_HOW_MANY_REQUESTS_SEND = 100
 WOKERS_LIMIT = 20 
 
 #You host for testing
-HOST = '192.168.254.254'
+HOST = 'http://you_host_here.com'
 
 #-----------
 
